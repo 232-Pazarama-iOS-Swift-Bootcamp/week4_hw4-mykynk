@@ -1,4 +1,20 @@
 # Pazarama iOS Bootcamp - Hafta 4 - Ödev
+Not : Bu uygulama SwiftUI ile geliştirildi.
+
+
+## Firebase kayıt sistemi
+![firebase](firebase1.png)
+![firebase](firebase2.png)
+![firebase](firebase3.png)
+![firebase](firebase4.png)
+
+### Aktif Özellikler
+- Kayıt olma
+- Giriş yapma
+- Her kullanıcının kendine özel beğeni listesi
+- Her kullanıcının kendine özel kaydedilenler listesi
+- Beğenme - Kaydetme
+- Profil Sayfası
 
 ## Flickr App
 
