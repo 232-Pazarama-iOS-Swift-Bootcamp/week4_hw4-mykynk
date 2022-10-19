@@ -1,6 +1,7 @@
 # Pazarama iOS Bootcamp - Hafta 4 - Ödev
 Not : Bu uygulama SwiftUI ile geliştirildi.
 
+Video ve görseller : https://drive.google.com/drive/folders/1h11swMT6cbgkSk2PjfaDDaZnXmYwHCzu?usp=sharing
 
 ## Firebase kayıt sistemi
 ![firebase](firebase1.png)
